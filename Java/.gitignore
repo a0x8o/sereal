@@ -1,0 +1,5 @@
+/test_dir
+/sereal/maven.classpath
+**/target
+.idea/
+**/*.iml
